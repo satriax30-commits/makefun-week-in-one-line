@@ -1,0 +1,1 @@
+{"description":"Writes one line summing up a week of 122 make.fun bounty entries to /output/entry.txt.","license":"MIT","main":"main.ts","name":"makefun-week-in-one-line","type":"module","version":"1.0.0"}
